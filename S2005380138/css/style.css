@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+}
+
+ul{
+    margin-top: 7px;
+}
+
+li{
+    list-style: none;
+}
+
+.home{
+    margin: auto;
+    width: 1520px;
+    height: 31px;
+    background-color: #e3e4e5;
+}
+
+.nav{
+    margin: auto;
+    width: 1190px;
+    height: 30px;
+}
+
+.k1{
+    float: left;
+}
+
+.k1 img{
+    height: 30px;
+}
+
+.nav-top{
+    height: 30px;
+    color: #999;
+    font-size: 12px;
+    float: right;
+}
+
+.nav-top li{
+    float: left;
+    padding-left: 8px;
+}
+
+.nav-top a{
+    text-decoration: none;
+    font-size: 12px;
+    color: #999;
+}
+
+.nav-top .sx{
+    color: #ccc;
+}
+
+.nav-top .register{
+    color: #f10215;
+}
+
+.nav-top .purchase a{
+    color: #f10215;
+}
+
+.nav-top a:hover{
+    color: #f10215;
+}
+
+.my-jd{
+    position: relative;
+}
+
+.subnav{
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    background-color: #fff;
+    position: absolute;
+    margin-top: 8px;
+    width: 280px;
+    height: 163px;
+    display: none;
+}
+
+.nav-top .my-jd .form1{
+    text-align: left;
+    float: left;
+    padding-left: 12px;
+}
+
+.nav-top .my-jd .form2{
+    padding-right: 80px;
+    float: right;
+}
+
+.nav-top .my-jd .at{
+    padding-top: 10px;
+}
+
+.nav-top .my-jd .my-jd1{
+    height: 24px;
+    width: 70px;
+    text-align: center;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.nav-top .my-jd .my-jd1:hover .subnav{
+    display: block;
+}
+
+.nav-top .my-jd .my-jd1:hover{
+    background-color: #fff;
+}
+
+.nav-top .my-jd .subnav-top{
+    height: 92px;
+    border-bottom: 1px solid #ccc;
+}
+
+.nav-top .my-jd .subnav-bottom{
+    height: 72px;
+}
+
+.nav-top .my-jd .form3{
+    text-align: left;
+    padding-left: 12px;
+    float: left;
+}
+
+.nav-top .my-jd .form4{
+    padding-right: 69px;
+    float: right;
+}
